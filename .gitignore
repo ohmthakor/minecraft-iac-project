@@ -1,0 +1,7 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform/.terraform.lock.hcl
+terraform/terraform.tfvars
+ansible/inventory.ini
+.DS_Store
